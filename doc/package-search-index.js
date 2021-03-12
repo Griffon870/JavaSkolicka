@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"cz.vkral.skolicka"}]
